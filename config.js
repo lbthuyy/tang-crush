@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh chị biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn gặp Puzzlies của anh chị vào một ngày không xa ><.',
     btnAccept: 'Okiiiii lun <3',
-    
+    messLink: 'https://www.facebook.com/CnnPuzzles' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
